@@ -26,4 +26,5 @@ Praticar conceitos fundamentais de front-end, especialmente:
 
 ## Preview
 <img width="1430" height="915" alt="image" src="https://github.com/user-attachments/assets/4128740a-b9e5-4e24-a131-2bc48fdafe5f" />
-<img width="1429" height="954" alt="image" src="https://github.com/user-attachments/assets/bfd7e46f-7b92-414a-b32c-3d1816556e6c" />
+<img width="1423" height="923" alt="image" src="https://github.com/user-attachments/assets/923195b1-2c84-4bb3-a115-92808c75808e" />
+
